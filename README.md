@@ -11,7 +11,17 @@ Hence, it is crucial for banks must employ rigorous risk management strategies t
 This project aims to supplement such risk management using technology in the form of data analytics and machine learning; we aim to identify the important factors in determining whether a loan will be defaulted on. By getting a better idea of how to determine a loan's probability of being defaulted on, the bank can take preemptive measures or precautions and be well prepared for defaults.
 
 ## B. Hypothesis
-The probability of a loan being defaulted depends on various factors such as the applicant's income, credit score, loan amount, rate of interest and more.
+The team posited a hypothesis suggesting that the likelihood of loan default could be influenced by several key factors, as follows:
+
+1. Loan Amount
+2. Debt-to-Income Ratio
+3. Loan Type
+4. Rate of Interest
+5. Income
+6. Credit Worthiness
+7. Credit Score
+
+It was hypothesized that these factors collectively impact the probability of loan default, suggesting that variations in these factors could affect the borrower's ability to meet their loan obligations.
 
 ## C. Dataset
 To work on the hypothesis, the team is using the [Loan Default Dataset](https://www.kaggle.com/datasets/yasserh/loan-default-dataset) from Kaggle. This dataset was chosen for its multitude of features for each loan being tracked, its high usability score (10/10), as well as it being relatively recent at the time this project was developed (2019).
